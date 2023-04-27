@@ -22,9 +22,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
 
 **Following is what you need for this book:**
 This book is for visual effects artists transitioning to real-time virtual production workflow as well as beginners looking to learn Niagara for games and other real-time applications. Game programmers, 3D generalists, and game designers interested in adding VFX for their game and metaverse projects will also find this book useful. A basic understanding of Unreal Engine 5, blueprints, as well as layout, materials, and lighting in Unreal Engine is expected.
