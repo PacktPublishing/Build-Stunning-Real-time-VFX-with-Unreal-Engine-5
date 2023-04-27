@@ -46,7 +46,8 @@ these basics are covered in the initial chapters.
 | 1        | Unreal Engine 5.1 – Niagara                     | Windows, Mac OS X, and Linux (Any) |
 
 The recommended OS is Windows 11.
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/jM6sa).
 
 
 ### Related products <Other books you may enjoy>
