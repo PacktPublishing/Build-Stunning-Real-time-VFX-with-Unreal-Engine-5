@@ -9,7 +9,7 @@ This is the code repository for [Build Stunning Real-time VFX with Unreal Engine
 ## What is this book about?
 First Paragraph from the Long Description
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Brush up your vector mathematics skills
 * Access and create namespaces in Niagara
 * Add a Niagara system to a Blueprint actor
